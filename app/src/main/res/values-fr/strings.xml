@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tram Info</string>
+    <string name="schedule">horaires</string>
+    <string name="line">Ligne</string>
+    <string name="tramLines">"Lignes de tram "</string>
+    <string name="loadingText">Chargement...</string>
+    <string name="sending">Voulez-vous procéder à l\'envoi?</string>
+    <string name="send">Envoyer</string>
+    <string name="cancel">Annuler</string>
+    <string name="daily_lines">Lignes quotidiennes</string>
+    <string name="night_lines">Lignes de nuit</string>
+</resources>

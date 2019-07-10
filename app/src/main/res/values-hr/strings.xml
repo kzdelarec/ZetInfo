@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tram Info</string>
+    <string name="loadingText">Učitavanje...</string>
+    <string name="tramLines">Tramvajske linije</string>
+    <string name="line">Linija</string>
+    <string name="schedule">vozni red</string>
+    <string name="sending">Želite li nastaviti sa slanjem?</string>
+    <string name="send">Pošalji</string>
+    <string name="cancel">Odustani</string>
+    <string name="daily_lines">Dnevne linije</string>
+    <string name="night_lines">Noćne linije</string>
+</resources>

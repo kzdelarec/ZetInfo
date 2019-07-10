@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tram Info</string>
+    <string name="loadingText">Loading...</string>
+    <string name="tramLines">Tram lines</string>
+    <string name="line">Line</string>
+    <string name="schedule">schedule</string>
+    <string name="sending">Do you want to proceed with sending?</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_drawer" translatable="false">DrawerActivity</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="daily_lines">Daily lines</string>
+    <string name="night_lines">Night lines</string>
+</resources>
